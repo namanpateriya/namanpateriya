@@ -29,13 +29,7 @@ I focus on turning strategy into execution—aligning teams, simplifying deliver
 ✔ Real-world delivery & remediation programs  
 ✔ AI automation & RAG systems  
 ✔ Jira / data-driven delivery governance  
-✔ Product thinking & execution trade-offs  
-
----
-
-🔗 **Repository:** https://github.com/namanpateriya/aria  
-📄 **Portfolio Page:** Included in the repo  
-
+✔ Product thinking
 ---
 
 ## 🤝 Let’s Connect
