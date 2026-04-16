@@ -3,9 +3,9 @@
 ## Who I Am
 Senior Program & Delivery Manager with 10+ years of experience across global banking, telecom, and SaaS, driving complex portfolios, AI- automation, and governance at scale.
 I focus on turning strategy into execution—aligning teams, simplifying delivery, and driving outcomes that matter at scale. With the rapid adoption of AI, I’m particularly passionate about building responsible, enterprise-grade AI products that balance:
-- Innovation ⚙️
-- Governance 🛡️
-- Delivery outcomes 📦
+- Innovation
+- Governance
+- Delivery outcomes
 
 ## Core Skill Themes
 - Program & Portfolio Management
@@ -19,17 +19,17 @@ I focus on turning strategy into execution—aligning teams, simplifying deliver
 - Regulatory & compliance-driven product design
 - Cross-functional leadership across geographies
 
-## 📌 Areas of Interest
+## Areas of Interest
 - Responsible AI
 - AI governance & compliance
 - Enterprise platforms
 - Product-led transformation
 
 ## What This Portfolio Shows
-✔ Real-world delivery & remediation programs  
-✔ AI automation & RAG systems  
-✔ Jira / data-driven delivery governance  
-✔ Product thinking
+- Real-world delivery & remediation programs  
+- AI automation & RAG systems  
+- Jira / data-driven delivery governance  
+- Product thinking
 ---
 
 ## 🤝 Let’s Connect
